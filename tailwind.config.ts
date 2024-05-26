@@ -17,6 +17,9 @@ const config = {
         "2xl": "1400px",
       },
     },
+    fontFamily: {
+      poppins: ["var(--font-poppins)"],
+    },
     extend: {
       colors: {
         border: "hsl(var(--border))",
